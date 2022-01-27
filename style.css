@@ -75,11 +75,13 @@ body {
     color: black;
     position: absolute;
     text-align: center;
+ 
 
     background: white;
 
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     bottom: 0;
     width: 100%;
+    gap: 2px;
 }
