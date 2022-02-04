@@ -1,4 +1,4 @@
 # Calculadora
 
-Repositório para armazenamento e criação da calculadora do desafio do Camp da Ioasys.
+Calculadora criada a partir do desafio do Camp Ioasys da aula de JavaScript.
 > https://calculadora-poliana.netlify.app
