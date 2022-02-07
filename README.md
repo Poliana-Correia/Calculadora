@@ -1,7 +1,12 @@
-# Calculadora
+# Calculadora 🖩
 
 Calculadora criada a partir do desafio do Camp Ioasys da aula de JavaScript.
 
->Utilizando conceitos de DOM, estilizção e responsividade.
+>Utilizando concetos de DOM, estilizção e responsividade.
 
 >> https://calculadora-poliana.netlify.app
+
+![calculadora](https://user-images.githubusercontent.com/93134957/152594679-ebf8e9b9-e0a4-476d-9724-920446fa3ac1.png)
+
+
+
